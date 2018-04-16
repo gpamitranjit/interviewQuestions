@@ -1,0 +1,12 @@
+Master card com interview questions1. materialized view in database/oracle
+
+clustered index in sql
+concurrent hash map internal working
+hashmap internal working
+reverse the linked list
+number of ways in which hash map can be iterated --answer 4
+JDBC simple connection code
+Reflection API in java
+dependecny injection
+Project Architecture
+response codes of REST API
